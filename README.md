@@ -1,3 +1,9 @@
+# Exploratory Data Analysis - Peer Graded Assignment, week 1
+
+The "plot1.R" through "plot4.R" files are written to be run with the source file "household_power_consumption.txt", which is archived in the ZIP file linked below, in the working directory. To save space & bandwidth, the actual file has been excluded from version control.
+
+The code to read the relevant data is duplicated in each script. A more thorough solution would "DRY" that code out into a separate file... but of course, this is a course in _exploratory_ analysis!
+
 ## Introduction
 
 This assignment uses data from
